@@ -1,0 +1,16 @@
+﻿  Animation.cpp
+C:\SFML-2.5.1\include\SFML\Graphics\Rect.hpp(32,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'algorithm': No such file or directory
+  AssetManager.cpp
+D:\Projekt_PK4\RiD_pixel_Game\RiD_RPGproject\RiD_RPGproject\Engine\AssetManager.h(3,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'map': No such file or directory
+  InputManager.cpp
+D:\Projekt_PK4\RiD_pixel_Game\RiD_RPGproject\RiD_RPGproject\Engine\InputManager.h(4,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'iostream': No such file or directory
+  MenuState.cpp
+C:\SFML-2.5.1\include\SFML\System\Err.hpp(32,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'ostream': No such file or directory
+  RiDGame.cpp
+D:\Projekt_PK4\RiD_pixel_Game\RiD_RPGproject\RiD_RPGproject\Engine\RiDGame.h(3,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'memory': No such file or directory
+  State.cpp
+  StateMachine.cpp
+D:\Projekt_PK4\RiD_pixel_Game\RiD_RPGproject\RiD_RPGproject\Engine\StateMachine.h(2,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'memory': No such file or directory
+  main.cpp
+C:\SFML-2.5.1\include\SFML\System\Err.hpp(32,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'ostream': No such file or directory
+  Generowanie kodu...
